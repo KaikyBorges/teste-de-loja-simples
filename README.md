@@ -5,3 +5,4 @@ Primeiro projeto autorral sobre python com o intuito de criar uma mini loja onli
 Biblioteca usadas:
 Colorama (Uso estético para colocar cor ao texto imprimido)
 os(Usada a função cls para limpar o terminal)
+Random (Aleatoriedade dos produtos disponiveis na loja)
